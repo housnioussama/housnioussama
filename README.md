@@ -1,7 +1,6 @@
-<img src="https://images.ctfassets.net/rql7mfatxk3i/6NQjHsdL4tomCG1zDin9lf/e9bf806aa24c6421add8ad0eac95da6f/software-engineering.jpeg">
+<img src="https://images.ctfassets.net/rql7mfatxk3i/6NQjHsdL4tomCG1zDin9lf/e9bf806aa24c6421add8ad0eac95da6f/software-engineering.jpeg" width="700">
 <h1 align="center">Hi 👋, I'm Housni oussama</h1>
 <h3 align="center">👨‍💻 Software Engineer | Java Full Stack Developer 🌐  </h3>
-<h4>Passionate about crafting robust and scalable software solutions with a focus on the Java stack. From server-side development using Spring Boot to creating dynamic and responsive user interfaces with Angular, I thrive in delivering end-to-end solutions. 💡 Constantly exploring new technologies and best practices to stay at the forefront of the ever-evolving tech landscape. Let's collaborate and build the future of technology together! 🚀 #Java #FullStack</h4>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=housnioussama&label=Profile%20views&color=0e75b6&style=flat" alt="housnioussama" /> </p>
 
