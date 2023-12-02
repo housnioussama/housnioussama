@@ -1,14 +1,14 @@
 <img src="https://images.ctfassets.net/rql7mfatxk3i/6NQjHsdL4tomCG1zDin9lf/e9bf806aa24c6421add8ad0eac95da6f/software-engineering.jpeg" width="1012">
 <h1 align="center">Hi 👋, I'm Housni oussama</h1>
 <h3 align="center">👨‍💻 Software Engineer | Java Full Stack Developer 🌐  </h3>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=housnioussama&label=Profile%20views&color=0e75b6&style=flat" alt="housnioussama" /> </p>
 
 - 🌱 I’m currently learning **testing & Junit**
 
 - 📫 How to reach me **housni1oussama@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/housnioussama/housnioussama/blob/main/resume_housni_oussama.pdf](https://github.com/housnioussama/housnioussama/blob/main/resume_housni_oussama.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/housnioussama/housnioussama/blob/main/resume_housni_oussama.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
