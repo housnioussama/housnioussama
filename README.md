@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **housni1oussama@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/housnioussama/housnioussama/blob/main/resume_housni_oussama.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/housnioussama/housnioussama/blob/main/housni_oussama_cv.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
